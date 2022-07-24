@@ -1,0 +1,26 @@
+.ms {
+    margin-left: 200px;
+}
+
+.me {
+    margin-left: 400px;
+}
+
+.one,
+.two {
+    margin-bottom: 7rem;
+}
+
+.background {
+    background-image: url(icons/watermark.svg);
+    height: 60vh;
+    background-repeat: repeat;
+    background-size: cover;
+    background-color: #3F87F5;
+    background-blend-mode: overlay;
+}
+
+.padding {
+    width: 360px;
+    height: 323px;
+}
